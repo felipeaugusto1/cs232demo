@@ -1,7 +1,7 @@
 class CcsfRailsController < ApplicationController
   def index
   end
-
+  
   def links
   end
 
