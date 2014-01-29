@@ -1,3 +1,20 @@
 // Place all the styles related to the ccsf_rails controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {background-color: green; color: white}
+.welcome {
+  width:41em;
+  margin: 50px auto;
+}
+
+.content {
+  overflow:auto;
+}
+
+#left_div {   
+  float:left; 
+}
+#right_div {   
+  float:right; 
+}
