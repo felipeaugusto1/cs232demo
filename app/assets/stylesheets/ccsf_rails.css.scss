@@ -2,7 +2,9 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
-body {background-color: green; color: white}
+$background-color: red;
+
+body {background-color: $background-color; color: white}
 .welcome {
   width:41em;
   margin: 50px auto;

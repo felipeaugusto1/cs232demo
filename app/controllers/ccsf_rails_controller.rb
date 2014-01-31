@@ -4,7 +4,6 @@ class CcsfRailsController < ApplicationController
   end
   
   def links
-    @insight = "https://insight.ccsf.edu/"
   end
 
   def about
